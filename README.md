@@ -11,13 +11,13 @@ We are excited to have you participate and we hope that you come away from them 
 Using data engineering to combine full-flight engine data, part manufacturing data, airport location data to create a data lake our analysts can use
 Postgres/SQL
 
-   Skills: Data orchestration & transformation | Critical Thinking
+      Skills: Data orchestration & transformation | Critical Thinking
    
    
 ### Module 2: Data Visualization
 Use data to create a run chart and KPI (key performance indicators) tables based off of simulated Aviation data
 
-  Skills: Run Chart | Data storytelling through visualizations | Business Intelligence (BI)
+      Skills: Run Chart | Data storytelling through visualizations | Business Intelligence (BI)
 
 
 ### Working at G&E
